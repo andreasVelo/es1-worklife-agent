@@ -1,5 +1,7 @@
 
 ## Latest Release Notes (v1.1.0)
+[Download Latest Release](https://github.com/<username>/<repository>/releases/latest/download/<asset-name>)
+
 
 - Feature 1: Description
 - Feature 2: Description
