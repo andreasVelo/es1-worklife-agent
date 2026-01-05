@@ -1,5 +1,5 @@
 
-## Latest Release Notes (v1.1.0)
+## Latest Release Notes [Rel Notes](https://github.com/andreasVelo/es1-worklife-agent/releases/latest)
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge)](https://github.com/andreasvelo/es1-worklife-agent/releases/latest/download/es1worklifeagent-setup.exe)
 
