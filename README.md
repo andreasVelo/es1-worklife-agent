@@ -77,7 +77,7 @@ Note: Most top-level commands expose subcommands or flags; run the command with 
 | Error | The device reported an error or failed to respond; check logs |
 
 Note: The device status is read-only
----
+
  >Connection State (HCM)
 
 | State | Description |
@@ -87,5 +87,5 @@ Note: The device status is read-only
 | Suspended | Registration/communication is paused for maintenance or administrative hold |
 | Test | Registered in test mode |
 
-Note: The device state defines the connection status with the HCM System. You can change the state to Active once the device is registered to the HCM sytem by using the cli command: devices --state <index> where <index> is the number of the connected device.
+Note: The device state defines the connection status with the HCM System. You can change the state to Active once the device is registered to the HCM sytem by using the cli command: devices --state `<index>` where `<index>` is the number of the connected device.
 
