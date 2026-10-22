@@ -1,4 +1,4 @@
-# ES1 Worklife Agent 1.1.3 User Guide
+# Time Settings
 
 ![ES1 Worklife Agent](image.png)
 
